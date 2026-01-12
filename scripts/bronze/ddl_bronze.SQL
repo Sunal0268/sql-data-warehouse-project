@@ -67,11 +67,3 @@ CREATE TABLE bronze.erp_px_cat_g1v2 (
     maintenance  VARCHAR(50)
 );
 
-    id           VARCHAR(50),
-    cat          VARCHAR(50),
-    subcat       VARCHAR(50),
-    maintenance  VARCHAR(50)
-);
- select count (*) from bronze.erp_px_cat_g1v2
-
-
