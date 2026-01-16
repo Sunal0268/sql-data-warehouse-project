@@ -113,7 +113,6 @@ All tools used in this project are **free and open-source**:
 
 * SQL 
 * Data Warehousing Concepts
-* Data Engineering
 * ETL / ELT Design
 * Data Modeling (Star Schema)
 * Analytical Thinking
