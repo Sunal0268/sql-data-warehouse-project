@@ -58,7 +58,7 @@ This project demonstrates:
 
 ## 🚀 Project Requirements
 
-### Data Warehouse (Data Engineering)
+### Data Warehouse 
 
 **Objective**
 Build a modern data warehouse to consolidate sales, customer and product data for analytical reporting.
