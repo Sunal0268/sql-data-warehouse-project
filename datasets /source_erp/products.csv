@@ -1,0 +1,6 @@
+product_id , product_name , category , price , is_active
+201,Wireless Mouse,Electronics,799,true
+202,Keyboard,Electronics,1299,true
+203,Office Chair,Furniture,6999,true
+204,Notebook,Stationery,99,true
+205,Desk Lamp,Electronics,1599,false
