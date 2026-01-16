@@ -1,6 +1,7 @@
-customer_id , first_name , last_name , email , city , created_at , is_active
-101,Amit,Sharma,amit.sharma@email.com,Delhi,2023-01-10,true
-102,Priya,Verma,priya.verma@email.com,Mumbai,2023-02-05,true
-103,Rahul,Mehta,rahul.mehta@email.com,Pune,2023-02-18,false
-104,Neha,Singh,neha.singh@email.com,Bangalore,2023-03-01,true
-105,Arjun,Patel,arjun.patel@email.com,Ahmedabad,2023-03-20,true
+customer_id,customer_key,first_name,last_name,marital_status,gender,created_date
+11000,AW00011000,Jon,Yang,M,M,2025-10-06
+11001,AW00011001,Eugene,Huang,S,M,2025-10-06
+11002,AW00011002,Ruben,Torres,M,M,2025-10-06
+11003,AW00011003,Christy,Zhu,S,F,2025-10-06
+11004,AW00011004,Elizabeth,Johnson,S,F,2025-10-06
+
